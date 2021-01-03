@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.1...3.15)
 
 set(targets "main")
-set(objects "teapot")
+set(objects "transform")
 set(proj_name "opengl_gungfu")
 set(ver "0.1")
 
