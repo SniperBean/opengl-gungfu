@@ -15,3 +15,6 @@
 - Transform the teapot position by W/S/A/D keys
 ![Execution result](preview/left_top.jpg)
 ![Execution result](preview/right_bottom.jpg)
+
+- Fade the background by down click left click and drag the cursor back and forth simultaneously.
+![Execution result](preview/change_background.jpg)
